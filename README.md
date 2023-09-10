@@ -3,8 +3,5 @@
 - A rpi4 was used to control four servo motors that were attached to pool noodles which "attacked" the user
 - Tkinter is used to develop the GUI
 
-
-<img src="Picture/Picture_of_System.jpeg" width="400" height="400">
-
 https://github.com/garceling/Custom-Boxing-Robot/assets/86638178/0b71a804-7a66-476c-941e-de58603cc1d6
 
