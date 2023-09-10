@@ -5,5 +5,6 @@
 
 
 <img src="Picture/Picture_of_System.jpeg" width="400" height="400">
-https://github.com/garceling/Custom-Boxing-Robot/assets/86638178/0a669148-3d4d-40d1-831c-6690d865f2b2
+
+https://github.com/garceling/Custom-Boxing-Robot/assets/86638178/0b71a804-7a66-476c-941e-de58603cc1d6
 
